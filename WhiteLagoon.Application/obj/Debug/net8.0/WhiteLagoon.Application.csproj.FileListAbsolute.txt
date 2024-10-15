@@ -1,0 +1,16 @@
+D:\project\New folder (3)\WhiteLagoonFinal\WhiteLagoon.Application\bin\Debug\net8.0\WhiteLagoon.Application.deps.json
+D:\project\New folder (3)\WhiteLagoonFinal\WhiteLagoon.Application\bin\Debug\net8.0\WhiteLagoon.Application.dll
+D:\project\New folder (3)\WhiteLagoonFinal\WhiteLagoon.Application\bin\Debug\net8.0\WhiteLagoon.Application.pdb
+D:\project\New folder (3)\WhiteLagoonFinal\WhiteLagoon.Application\bin\Debug\net8.0\WhiteLagoon.Domain.dll
+D:\project\New folder (3)\WhiteLagoonFinal\WhiteLagoon.Application\bin\Debug\net8.0\WhiteLagoon.Domain.pdb
+D:\project\New folder (3)\WhiteLagoonFinal\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.csproj.AssemblyReference.cache
+D:\project\New folder (3)\WhiteLagoonFinal\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\New folder (3)\WhiteLagoonFinal\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.AssemblyInfoInputs.cache
+D:\project\New folder (3)\WhiteLagoonFinal\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.AssemblyInfo.cs
+D:\project\New folder (3)\WhiteLagoonFinal\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.csproj.CoreCompileInputs.cache
+D:\project\New folder (3)\WhiteLagoonFinal\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.sourcelink.json
+D:\project\New folder (3)\WhiteLagoonFinal\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.csproj.CopyComplete
+D:\project\New folder (3)\WhiteLagoonFinal\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.dll
+D:\project\New folder (3)\WhiteLagoonFinal\WhiteLagoon.Application\obj\Debug\net8.0\refint\WhiteLagoon.Application.dll
+D:\project\New folder (3)\WhiteLagoonFinal\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.pdb
+D:\project\New folder (3)\WhiteLagoonFinal\WhiteLagoon.Application\obj\Debug\net8.0\ref\WhiteLagoon.Application.dll
